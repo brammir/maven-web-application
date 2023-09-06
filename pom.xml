@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ICICI Bank Snapshot Nexus Repository</name>
-	      <url><http://13.127.53.142:9980/brammi/repository/icicibank-snapshot/</url>
+	      <url>http://13.127.53.142:9980/brammi/repository/icicibank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
