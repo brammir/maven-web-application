@@ -13,7 +13,7 @@
 
 	<organization>
 		<name>Mithun Technologies</name>
-		<url>http://mithuntechnologies.com/</url>
+		<url>http://mithuntechnologies.com/</url>http://15.206.173.89:9000/
 	</organization>
 
 	<properties>
@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://3.109.182.134:9000/</sonar.host.url>
+		<sonar.host.url>http://15.206.173.89:9000/</sonar.host.url>
 		<sonar.login>squ_1d8ba4c5721c0cf5f215b0e23ed02f3c1b971a45</sonar.login>
 		
 		 
